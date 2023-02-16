@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 bugfix
+=======
+master
+>>>>>>> master
